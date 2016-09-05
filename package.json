@@ -1,0 +1,15 @@
+{ 
+	"name": "test-node",
+  	"description": "Test node js installation",
+  	"version": "0.0.1",
+  	"devDependencies": {
+    	"coffee-script": "~1.6.3",
+    	"express" : "*",
+    	"fs" : "*",
+    	"url" : "*",
+    	"socket.io" : "*"
+  },
+  "repository": {
+    "private": true
+  }
+}
